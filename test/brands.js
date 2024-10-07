@@ -3,7 +3,7 @@ import https from "https";
 
 const clothingBrands = [
   {
-    owner_id: 1,
+    seller_fk: 1,
     name: "Nike",
     description: "Global leader in sportswear and athletic apparel.",
     logo: "https://example.com/logos/nike.png",
@@ -13,7 +13,7 @@ const clothingBrands = [
     country_id: 1,
   },
   {
-    owner_id: 2,
+    seller_fk: 2,
     name: "Adidas",
     description: "Innovative sportswear and lifestyle brand.",
     logo: "https://example.com/logos/adidas.png",
@@ -23,7 +23,7 @@ const clothingBrands = [
     country_id: 1,
   },
   {
-    owner_id: 3,
+    seller_fk: 3,
     name: "Levi's",
     description: "Iconic denim and casual wear brand.",
     logo: "https://example.com/logos/levis.png",
@@ -33,7 +33,7 @@ const clothingBrands = [
     country_id: 1,
   },
   {
-    owner_id: 4,
+    seller_fk: 4,
     name: "H&M",
     description: "Affordable and stylish clothing and accessories.",
     logo: "https://example.com/logos/hm.png",
@@ -43,7 +43,7 @@ const clothingBrands = [
     country_id: 1,
   },
   {
-    owner_id: 5,
+    seller_fk: 5,
     name: "Zara",
     description: "Trendy and fashionable clothing for all seasons.",
     logo: "https://example.com/logos/zara.png",
