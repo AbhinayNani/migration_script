@@ -6,7 +6,6 @@ const clothingBrands = [
     seller_fk: 1,
     name: "Nike",
     description: "Global leader in sportswear and athletic apparel.",
-    logo: "https://example.com/logos/nike.png",
     email: "contact@nike.com",
     phone_code: "+91",
     phone_number: "9998887777",
@@ -16,7 +15,6 @@ const clothingBrands = [
     seller_fk: 2,
     name: "Adidas",
     description: "Innovative sportswear and lifestyle brand.",
-    logo: "https://example.com/logos/adidas.png",
     email: "info@adidas.com",
     phone_code: "+91",
     phone_number: "8887776666",
@@ -26,7 +24,6 @@ const clothingBrands = [
     seller_fk: 3,
     name: "Levi's",
     description: "Iconic denim and casual wear brand.",
-    logo: "https://example.com/logos/levis.png",
     email: "support@levis.com",
     phone_code: "+91",
     phone_number: "7776665555",
@@ -36,7 +33,6 @@ const clothingBrands = [
     seller_fk: 4,
     name: "H&M",
     description: "Affordable and stylish clothing and accessories.",
-    logo: "https://example.com/logos/hm.png",
     email: "info@hm.com",
     phone_code: "+91",
     phone_number: "5554443333",
@@ -46,7 +42,6 @@ const clothingBrands = [
     seller_fk: 5,
     name: "Zara",
     description: "Trendy and fashionable clothing for all seasons.",
-    logo: "https://example.com/logos/zara.png",
     email: "contact@zara.com",
     phone_code: "+91",
     phone_number: "6665554444",
@@ -67,7 +62,7 @@ async function createBrands() {
     8: "Sapphire",
     9: "Gothic",
   };
-  const api = `${process.env.HOST}v1/Brand`;
+  const api = `https://qa-admin-api.ecoyaan.com/v1/Brand`;
 
   for (const brand of clothingBrands) {
     for (let i = 0; i < 10; i++) {
@@ -80,5 +75,7 @@ async function createBrands() {
     }
   }
 }
+
+createBrands();
 
 export { createBrands };

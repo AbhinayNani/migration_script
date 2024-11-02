@@ -1,0 +1,590 @@
+[
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Clothes Set - Blue",
+        "description": "A soft and cozy blue Nike Zero baby clothes set, designed for ultimate comfort and style. Perfect for everyday wear.",
+        "content": "This set includes a blue onesie, matching pants, and a beanie hat, all made from soft cotton fabric to keep your baby comfortable.",
+        "product_type": 0,
+        "net_weight": 0.25,
+        "volumetric_weight": 0.35,
+        "length": 30,
+        "breadth": 20,
+        "height": 5,
+        "sku": "NKZ-BABY-SET-BLUE",
+        "upc": "123456789013",
+        "ean": "9876543210990",
+        "mpn": "NKZ-BABY-002",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 1,
+                "attribute": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "productFk": 1,
+                "attribute": "Age Range",
+                "value": "0-12 Months"
+            },
+            {
+                "productFk": 1,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 1,
+                "attribute": "Fit Type",
+                "value": "Regular"
+            },
+            {
+                "productFk": 1,
+                "attribute": "Color",
+                "value": "Blue with Nike Zero Branding"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Onesie - White",
+        "description": "A classic white Nike Zero baby onesie, perfect for layering or wearing on its own. Soft, breathable, and stylish.",
+        "content": "Made from 100% cotton, this white onesie features the iconic Nike Zero logo and provides all-day comfort for your baby.",
+        "product_type": 0,
+        "net_weight": 0.15,
+        "volumetric_weight": 0.2,
+        "length": 28,
+        "breadth": 18,
+        "height": 3,
+        "sku": "NKZ-BABY-ONESIE-WHITE",
+        "upc": "123456789014",
+        "ean": "9876543211001",
+        "mpn": "NKZ-BABY-003",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 2,
+                "attribute": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "productFk": 2,
+                "attribute": "Age Range",
+                "value": "0-6 Months"
+            },
+            {
+                "productFk": 2,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 2,
+                "attribute": "Fit Type",
+                "value": "Snug Fit"
+            },
+            {
+                "productFk": 2,
+                "attribute": "Color",
+                "value": "White with Nike Zero Branding"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Hoodie - Pink",
+        "description": "A cozy pink Nike Zero baby hoodie, perfect for cool days. Designed to provide warmth and comfort while keeping your baby stylish.",
+        "content": "This hoodie features a zip-up design and a soft, fleece interior. The Nike Zero logo on the front adds a sporty touch.",
+        "product_type": 0,
+        "net_weight": 0.3,
+        "volumetric_weight": 0.4,
+        "length": 35,
+        "breadth": 25,
+        "height": 5,
+        "sku": "NKZ-BABY-HOODIE-PINK",
+        "upc": "123456789015",
+        "ean": "9876543211012",
+        "mpn": "NKZ-BABY-004",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 3,
+                "attribute": "Material",
+                "value": "80% Cotton, 20% Polyester"
+            },
+            {
+                "productFk": 3,
+                "attribute": "Age Range",
+                "value": "6-12 Months"
+            },
+            {
+                "productFk": 3,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 3,
+                "attribute": "Fit Type",
+                "value": "Regular Fit"
+            },
+            {
+                "productFk": 3,
+                "attribute": "Color",
+                "value": "Pink with Nike Zero Logo"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Pants - Grey",
+        "description": "Comfortable grey baby pants from Nike Zero, designed for ease of movement and all-day comfort. Great for playtime and naps.",
+        "content": "These pants are made from soft cotton and feature an elastic waistband for easy on and off. The Nike Zero logo adds a sporty flair.",
+        "product_type": 0,
+        "net_weight": 0.2,
+        "volumetric_weight": 0.25,
+        "length": 30,
+        "breadth": 22,
+        "height": 4,
+        "sku": "NKZ-BABY-PANTS-GREY",
+        "upc": "123456789016",
+        "ean": "9876543211023",
+        "mpn": "NKZ-BABY-005",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 4,
+                "attribute": "Material",
+                "value": "95% Cotton, 5% Elastane"
+            },
+            {
+                "productFk": 4,
+                "attribute": "Age Range",
+                "value": "0-6 Months"
+            },
+            {
+                "productFk": 4,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 4,
+                "attribute": "Fit Type",
+                "value": "Elastic Waistband"
+            },
+            {
+                "productFk": 4,
+                "attribute": "Color",
+                "value": "Grey with Nike Zero Branding"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Socks - White & Blue",
+        "description": "Soft and breathable Nike Zero baby socks in white and blue, offering comfort and warmth for your little one’s feet.",
+        "content": "This set includes a pair of white and blue socks with the Nike Zero logo on the cuff. Perfect for everyday wear.",
+        "product_type": 0,
+        "net_weight": 0.05,
+        "volumetric_weight": 0.1,
+        "length": 15,
+        "breadth": 10,
+        "height": 2,
+        "sku": "NKZ-BABY-SOCKS-WHITE-BLUE",
+        "upc": "123456789017",
+        "ean": "9876543211034",
+        "mpn": "NKZ-BABY-006",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 5,
+                "attribute": "Material",
+                "value": "80% Cotton, 15% Polyester, 5% Spandex"
+            },
+            {
+                "productFk": 5,
+                "attribute": "Age Range",
+                "value": "0-12 Months"
+            },
+            {
+                "productFk": 5,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 5,
+                "attribute": "Fit Type",
+                "value": "Elastic Cuff"
+            },
+            {
+                "productFk": 5,
+                "attribute": "Color",
+                "value": "White & Blue with Nike Zero Logo"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Romper - Red",
+        "description": "A cute and comfy red Nike Zero baby romper. Perfect for active babies and toddlers who need freedom to move.",
+        "content": "This romper is made from breathable cotton, with a snap closure for easy changing. Features the signature Nike Zero branding on the chest.",
+        "product_type": 0,
+        "net_weight": 0.2,
+        "volumetric_weight": 0.3,
+        "length": 32,
+        "breadth": 22,
+        "height": 4,
+        "sku": "NKZ-BABY-ROMPER-RED",
+        "upc": "123456789018",
+        "ean": "9876543211045",
+        "mpn": "NKZ-BABY-007",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 6,
+                "attribute": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "productFk": 6,
+                "attribute": "Age Range",
+                "value": "0-12 Months"
+            },
+            {
+                "productFk": 6,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 6,
+                "attribute": "Fit Type",
+                "value": "Snug Fit"
+            },
+            {
+                "productFk": 6,
+                "attribute": "Color",
+                "value": "Red with Nike Zero Branding"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby T-Shirt - Light Grey",
+        "description": "A comfortable light grey Nike Zero baby t-shirt for those warm sunny days, featuring soft fabric and sporty design.",
+        "content": "This t-shirt is made from 100% cotton, and the soft fabric provides all-day comfort. It includes the iconic Nike Zero logo.",
+        "product_type": 0,
+        "net_weight": 0.12,
+        "volumetric_weight": 0.18,
+        "length": 28,
+        "breadth": 18,
+        "height": 2,
+        "sku": "NKZ-BABY-TSHIRT-LIGHTGREY",
+        "upc": "123456789019",
+        "ean": "9876543211056",
+        "mpn": "NKZ-BABY-008",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 7,
+                "attribute": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "productFk": 7,
+                "attribute": "Age Range",
+                "value": "6-12 Months"
+            },
+            {
+                "productFk": 7,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 7,
+                "attribute": "Fit Type",
+                "value": "Regular Fit"
+            },
+            {
+                "productFk": 7,
+                "attribute": "Color",
+                "value": "Light Grey with Nike Zero Branding"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Sweatpants - Black",
+        "description": "Stylish black Nike Zero baby sweatpants for ultimate comfort, featuring soft fabric and an elastic waistband for easy wear.",
+        "content": "These sweatpants are made from a blend of cotton and polyester, ensuring comfort during playtime and naps.",
+        "product_type": 0,
+        "net_weight": 0.25,
+        "volumetric_weight": 0.35,
+        "length": 33,
+        "breadth": 23,
+        "height": 4,
+        "sku": "NKZ-BABY-SWEATPANTS-BLACK",
+        "upc": "123456789020",
+        "ean": "9876543211067",
+        "mpn": "NKZ-BABY-009",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 8,
+                "attribute": "Material",
+                "value": "80% Cotton, 20% Polyester"
+            },
+            {
+                "productFk": 8,
+                "attribute": "Age Range",
+                "value": "6-12 Months"
+            },
+            {
+                "productFk": 8,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 8,
+                "attribute": "Fit Type",
+                "value": "Elastic Waistband"
+            },
+            {
+                "productFk": 8,
+                "attribute": "Color",
+                "value": "Black with Nike Zero Logo"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Jacket - Navy",
+        "description": "Warm and stylish navy blue Nike Zero baby jacket, perfect for cooler days. Designed for comfort and ease of movement.",
+        "content": "The jacket features a zip-up design, with soft fleece lining and the Nike Zero logo for a sporty, casual look.",
+        "product_type": 0,
+        "net_weight": 0.4,
+        "volumetric_weight": 0.5,
+        "length": 38,
+        "breadth": 26,
+        "height": 5,
+        "sku": "NKZ-BABY-JACKET-NAVY",
+        "upc": "123456789021",
+        "ean": "9876543211078",
+        "mpn": "NKZ-BABY-010",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1, 
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 9,
+                "attribute": "Material",
+                "value": "70% Cotton, 30% Polyester"
+            },
+            {
+                "productFk": 9,
+                "attribute": "Age Range",
+                "value": "12-18 Months"
+            },
+            {
+                "productFk": 9,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 9,
+                "attribute": "Fit Type",
+                "value": "Regular Fit"
+            },
+            {
+                "productFk": 9,
+                "attribute": "Color",
+                "value": "Navy Blue with Nike Zero Logo"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Shorts - Yellow",
+        "description": "Bright yellow Nike Zero baby shorts, perfect for the summer. Comfortable and playful, ideal for active babies.",
+        "content": "Made from a soft cotton blend, these shorts provide comfort while also featuring the Nike Zero logo for a sporty touch.",
+        "product_type": 0,
+        "net_weight": 0.1,
+        "volumetric_weight": 0.15,
+        "length": 20,
+        "breadth": 14,
+        "height": 2,
+        "sku": "NKZ-BABY-SHORTS-YELLOW",
+        "upc": "123456789022",
+        "ean": "9876543211089",
+        "mpn": "NKZ-BABY-011",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 10,
+                "attribute": "Material",
+                "value": "90% Cotton, 10% Spandex"
+            },
+            {
+                "productFk": 10,
+                "attribute": "Age Range",
+                "value": "6-12 Months"
+            },
+            {
+                "productFk": 10,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 10,
+                "attribute": "Fit Type",
+                "value": "Regular Fit"
+            },
+            {
+                "productFk": 10,
+                "attribute": "Color",
+                "value": "Yellow with Nike Zero Logo"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Dress - Pink",
+        "description": "Cute pink Nike Zero baby dress, designed to keep your little one looking stylish while staying comfortable all day.",
+        "content": "This soft, breathable dress features an easy fit design and the iconic Nike Zero logo on the front.",
+        "product_type": 0,
+        "net_weight": 0.15,
+        "volumetric_weight": 0.2,
+        "length": 30,
+        "breadth": 22,
+        "height": 3,
+        "sku": "NKZ-BABY-DRESS-PINK",
+        "upc": "123456789023",
+        "ean": "9876543211090",
+        "mpn": "NKZ-BABY-012",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 11,
+                "attribute": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "productFk": 11,
+                "attribute": "Age Range",
+                "value": "12-18 Months"
+            },
+            {
+                "productFk": 11,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 11,
+                "attribute": "Fit Type",
+                "value": "Regular Fit"
+            },
+            {
+                "productFk": 11,
+                "attribute": "Color",
+                "value": "Pink with Nike Zero Branding"
+            }
+        ]
+    },
+    {
+        "seller_fk": 1,
+        "name": "Nike Zero Baby Pajama Set - Light Blue",
+        "description": "A soft and cozy light blue Nike Zero baby pajama set, perfect for bedtime. Made with care for comfort and durability.",
+        "content": "This set includes a top and pants, both made from soft cotton material. The Nike Zero logo adds a sporty touch.",
+        "product_type": 0,
+        "net_weight": 0.25,
+        "volumetric_weight": 0.3,
+        "length": 34,
+        "breadth": 24,
+        "height": 5,
+        "sku": "NKZ-BABY-PJ-SET-BLUE",
+        "upc": "123456789024",
+        "ean": "9876543211101",
+        "mpn": "NKZ-BABY-013",
+        "packaging_type": 0,
+        "brand_id": 1,
+        "manufacturer_id": 1,
+        "group_fk": 1,
+        "group_description": null,
+        "category_fk": 43,
+        "product_details": [
+            {
+                "productFk": 12,
+                "attribute": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "productFk": 12,
+                "attribute": "Age Range",
+                "value": "0-6 Months"
+            },
+            {
+                "productFk": 12,
+                "attribute": "Care Instructions",
+                "value": "Machine Washable"
+            },
+            {
+                "productFk": 12,
+                "attribute": "Fit Type",
+                "value": "Relaxed Fit"
+            },
+            {
+                "productFk": 12,
+                "attribute": "Color",
+                "value": "Light Blue with Nike Zero Branding"
+            }
+        ]
+    }
+]
