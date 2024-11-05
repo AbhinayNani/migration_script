@@ -95,7 +95,7 @@ const warehouses = [
 ];
 
 async function createWarehouses() {
-  const api = `https://qa-admin-api.ecoyaan.com/v1/Warehouse`;
+  const api = "https://localhost:5174/Warehouse";
 
   for (const warehouse of warehouses) {
     const res = await axios.post(api, warehouse, {
@@ -105,5 +105,7 @@ async function createWarehouses() {
     });
   }
 }
+
+createWarehouses();
 
 export { createWarehouses };
