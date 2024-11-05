@@ -4,7 +4,8 @@ import https from "https";
 const productClaims = [
   {
     name: "Reusable",
-    description: "100% vegan & plastic free",
+    description:
+      "These Products are designed to be used multiple times, reducing the need for single-use items. It is 100% vegan and plastic-free, contributing to a more sustainable lifestyle.",
     weight: 0.8,
     regulationList: [
       "Global Sustainability Guidelines",
@@ -19,7 +20,8 @@ const productClaims = [
   },
   {
     name: "Vegan",
-    description: "100% vegan & plastic free",
+    description:
+      "No animal-derived materials or ingredients are used in its production. It is also free from plastic, making it environmentally friendly.",
     weight: 0.9,
     regulationList: [
       "Vegan Certification Guidelines",
@@ -34,7 +36,8 @@ const productClaims = [
   },
   {
     name: "Energy-Efficient",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is designed to consume minimal energy during use, helping to lower your carbon footprint. It supports energy conservation and promotes eco-friendly living.",
     weight: 0.85,
     regulationList: [
       "Energy Efficiency Regulations",
@@ -49,7 +52,8 @@ const productClaims = [
   },
   {
     name: "Sustainable",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is made from 100% recycled materials and produced using eco-friendly processes that reduce waste, energy, and water usage, minimizing its environmental footprint",
     weight: 1.0,
     regulationList: [
       "Sustainable Production Regulations",
@@ -64,7 +68,8 @@ const productClaims = [
   },
   {
     name: "Upcycled",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is upcycled from 100% recycled materials and made using eco-friendly processes that reduce waste, energy, and water usage, minimizing its environmental footprint.",
     weight: 0.75,
     regulationList: [
       "Upcycling Certification Guidelines",
@@ -79,7 +84,8 @@ const productClaims = [
   },
   {
     name: "Zero Waste",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is upcycled from 100% recycled materials and crafted through zero-waste processes that minimize energy, water usage, and waste, reducing its environmental impact",
     weight: 0.95,
     regulationList: [
       "Zero Waste Certification Standards",
@@ -94,7 +100,8 @@ const productClaims = [
   },
   {
     name: "Made From Recycled Materials",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is made from 100% recycled materials and produced using eco-friendly processes that minimize waste, energy, and water usage, reducing its overall environmental impact.",
     weight: 0.9,
     regulationList: ["Recycling Standards", "Circular Economy Guidelines"],
     suggestionList: [
@@ -106,7 +113,8 @@ const productClaims = [
   },
   {
     name: "100% Cotton",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is made from 100% cotton, sourced sustainably to ensure minimal environmental impact and promote eco-friendly farming practices",
     weight: 0.85,
     regulationList: [
       "Cotton Production Standards",
@@ -121,7 +129,8 @@ const productClaims = [
   },
   {
     name: "Non Toxic",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is made from non-toxic materials, ensuring safety for both the environment and consumers while reducing harmful chemical exposure.",
     weight: 0.9,
     regulationList: [
       "Non-toxic Materials Certification",
@@ -136,7 +145,8 @@ const productClaims = [
   },
   {
     name: "DYE Free",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is dye-free, made with natural materials to reduce chemical use and minimize environmental impact.",
     weight: 0.8,
     regulationList: [
       "Eco-friendly Dye Standards",
@@ -151,7 +161,8 @@ const productClaims = [
   },
   {
     name: "Water Efficient",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is made using water-efficient processes, reducing water consumption and minimizing its environmental footprint.",
     weight: 0.75,
     regulationList: [
       "Water Conservation Guidelines",
@@ -166,7 +177,8 @@ const productClaims = [
   },
   {
     name: "Cruelty free",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is cruelty-free, ensuring no animal testing or harm is involved in its development, promoting ethical and humane practices.",
     weight: 1.0,
     regulationList: [
       "Cruelty-Free Certification Standards",
@@ -181,7 +193,8 @@ const productClaims = [
   },
   {
     name: "Plastic Free",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is plastic-free, made with sustainable materials to reduce plastic waste and minimize environmental impact",
     weight: 1.0,
     regulationList: [
       "Plastic-Free Certification Guidelines",
@@ -196,7 +209,8 @@ const productClaims = [
   },
   {
     name: "Organic",
-    description: "100% vegan & plastic free",
+    description:
+      "This product is made from 100% organic materials, grown without synthetic pesticides or fertilizers, promoting soil health and environmental sustainability.",
     weight: 0.95,
     regulationList: ["Organic Certification Standards", "Non-GMO Guidelines"],
     suggestionList: [
