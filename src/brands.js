@@ -76,6 +76,4 @@ async function createBrands() {
   }
 }
 
-createBrands();
-
 export { createBrands };

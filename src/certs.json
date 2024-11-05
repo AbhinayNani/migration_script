@@ -15,7 +15,7 @@
         "description": "Environmental Management System Certification",
         "weight": 0,
         "category_fk": 1,
-        "validity": "1095.00:00:00", 
+        "validity": "1095.00:00:00",
         "type": 0,
         "status": 0
     },
@@ -25,7 +25,7 @@
         "description": "Occupational Health and Safety Certification",
         "weight": 0,
         "category_fk": 1,
-        "validity": "1095.00:00:00", 
+        "validity": "1095.00:00:00",
         "type": 0,
         "status": 0
     },
@@ -35,7 +35,7 @@
         "description": "Information Security Management Certification",
         "weight": 0,
         "category_fk": 1,
-        "validity": "365.00:00:00", 
+        "validity": "365.00:00:00",
         "type": 0,
         "status": 0
     },
@@ -55,7 +55,7 @@
         "description": "Conformity of products with European standards",
         "weight": 0,
         "category_fk": 1,
-        "validity": "0.00:00:00", 
+        "validity": "0.00:00:00",
         "type": 0,
         "status": 0
     },
@@ -75,7 +75,7 @@
         "description": "Certification for food safety and quality management",
         "weight": 0,
         "category_fk": 1,
-        "validity": "365.00:00:00", 
+        "validity": "365.00:00:00",
         "type": 0,
         "status": 0
     },
@@ -85,7 +85,7 @@
         "description": "Occupational Health and Safety Assessment Series",
         "weight": 0,
         "category_fk": 1,
-        "validity": "1095.00:00:00", 
+        "validity": "1095.00:00:00",
         "type": 0,
         "status": 0
     },
@@ -95,7 +95,7 @@
         "description": "Food and Drug Administration Certification for medical devices",
         "weight": 0,
         "category_fk": 1,
-        "validity": "0.00:00:00", 
+        "validity": "0.00:00:00",
         "type": 0,
         "status": 0
     }

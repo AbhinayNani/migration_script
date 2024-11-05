@@ -1,10 +1,10 @@
 import axios from "axios";
 import https from "https";
 
-async function createBrands() {
+async function createBrandGallery() {
   const api = `https://qa-admin-api.ecoyaan.com/v1/BrandGallery`;
 
-  for (let i = 0; i < 100; i++) {
+  for (let i = 1; i <=50; i++) {
     const response = await axios.post(
       api,
       [
