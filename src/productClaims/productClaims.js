@@ -223,7 +223,7 @@ const productClaims = [
 ];
 
 async function createProductClaims() {
-  const api = "https://localhost:5001/v1/ProductClaim";
+  const api = "https://qa-admin-api.ecoyaan.com/v1/ProductClaim";
 
   for (const productClaim of productClaims) {
     const res = await axios.post(api, productClaim, {
