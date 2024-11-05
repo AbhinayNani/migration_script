@@ -190,7 +190,7 @@ const warehouses = [
 ];
 
 async function createWarehouses() {
-  const api = "https://localhost:5174/Warehouse";
+  const api = "https://localhost:5001/v1/Warehouse";
 
   for (const warehouse of warehouses) {
     const res = await axios.post(api, warehouse, {
