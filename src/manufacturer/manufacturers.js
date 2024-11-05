@@ -115,8 +115,8 @@ const manufacturers = [
 ];
 
 async function createManufacturers() {
-  const api = `https://qa-admin-api.ecoyaan.com/v1/Manufacturer`;
-
+  const api = "https://localhost:5001/v1/Manufacturer";
+  
   for (const manufacturer of manufacturers) {
     const res = await axios.post(api, manufacturer, {
       httpsAgent: new https.Agent({
