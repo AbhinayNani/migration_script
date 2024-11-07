@@ -3,7 +3,7 @@ import https from "https";
 
 
 async function updateProductStatus() {
-  const api = "https://qa-admin-api.ecoyaan.com/v1/Product";
+  const api = "https://qa-admin-api.ecoyaan.com/v1/Product/status";
 
   for (let i = 2; i < 66; i++) {
     const res = await axios.patch(
