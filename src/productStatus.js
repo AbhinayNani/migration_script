@@ -1,4 +1,6 @@
 import axios from "axios";
+import https from "https";
+
 
 async function updateProductStatus() {
   const api = "https://qa-admin-api.ecoyaan.com/v1/Product";
