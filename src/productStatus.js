@@ -1,5 +1,5 @@
-
 import axios from "axios";
+
 async function updateProductStatus() {
   const api = "https://qa-admin-api.ecoyaan.com/v1/Product";
 
