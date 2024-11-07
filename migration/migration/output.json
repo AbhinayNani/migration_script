@@ -1,0 +1,34 @@
+[
+    {
+        "Serial No.": "Sample",
+        "SKU ID\nkeep the SKU-ID for the same product with different variations (based on colors, size, etc.) the same across different rows ": "SELLER_PROD_IDENTIFIER",
+        "Product Name": "Natural Laundry Liquid - Lavender   - 2 litres   - 5 litres   - 900ml",
+        "Subcategory\n": "Cleaning Supplies",
+        "Product Tags \n(Any Relevant Tags - that highlight product use) \n(Valid for Search and SEO)": "Chemical free, Non Toxic, Floor cleaning, Homecare, etc.",
+        "Option1 Name\nIf a product has an option, then enter its name. For example, Color. If a product has only one option, then this value should be Title.": "Size",
+        "Option1 Value": "350 ml",
+        "Option2 Name\nIf a product has a second option, then enter its name. For example, Size.": "Fragrance",
+        "Option2 Value": "Lavender",
+        "Option3 Name\nIf a product has a third option, then enter its name.": NaN,
+        "Option3 Value": NaN,
+        "HSN - optional\n(Please share you if know your product HSN codes)\n": 95069990.0,
+        "GST%\nApplicable on Product \n(0%, 5%, 12%, 18%, 28%)": 0.12,
+        "Ingredients List\n(Keep the ingredients as per the label and approved by regualtory bodies)": "Bio Enzymes, Euclaptus Oil, Coconut based cleaner",
+        "Description\n(300-400 words)": "\u2022 Can be used in top-loading & front-loading machines or for hand wash.\n\u2022 Removes dirt, germs & stains, cares for your washing machine & your clothes.\n\u2022 No Dyes, No Bleach, No synthetic dyes or harmful artificial colour added, so just a clear cleaner\n\u2022 The liquid detergent dissolves quickly in washing machines, removes stains effortlessly and leaves no residue on clothes or in machines\n\u2022 Infused with nature's antibacterial agents that help in killing the microbes, germs & bacteria which emerge from food spills, sweat or dirt",
+        "Other Details \n( Skin/hair type suitability, care instructions, manufacturer details, country of origin, certifications, packaging material, etc.)": "More Details\n\u2022 MRP (inclusive of all taxes): 1800ml - 1239\n\u2022 Manufactured & Packaged by - Aditya Renewtech LLP - Plot no. 5, Devam 3, Industrial Estate, Santej, Gandhinagr, Gujarat - 382721\n\u2022 Country of Origin - India\n\u2022 Expiry Date - 2 years from the date of manufacture\n\nCaution:\n\u2022 For external use only\n\u2022 Store in a cool & dry place\n\u2022 Colour of product may change due to use of natural ingredients and essential oils\n\u2022 Product images are for representational purposes only, actual may vary\n",
+        "MRP \n(incl. of Taxes) \n(Use no symbols)": 1200.0,
+        "Selling Price\nWrite MRP value if you don't wish to offer introductory discounts": 860.0,
+        "Sustainability Attributes \u2b50\nPlease check reference tab for defintions and questions to be sure of the attributes\n(Use Dropdown)\n(Please select only those attribtues which you can substantiate as we go forward) (Select 0-4 attributes you are sure of)": "Sustainable Packaging, Plastic Free, Zero Waste / Low Waste / Single Use Alternative",
+        "Other Sustainability Attributes not in Column S\n(add any other attributes that we might have missed)": NaN,
+        "Return Policy \n(Easy Returns / Replaceable only / Non Returnable": "Replaceable",
+        "Product Weight (grams)": 400.0,
+        "Length\nLength of the Product when packaged. Do not enter unit. If 10 cm only enter 10": 12.0,
+        "Width\nWidth of the Product when packaged. Do not enter unit. If 10 cm only enter 10": 10.0,
+        "Height\nHeight of the Product when packaged. Do not enter unit. If 10 cm only enter 10": 0.75,
+        "Package weight (grams)\n(Note)- it is the whole weight of the package, which includes the product too": 500.0,
+        "Plastic Free Packaging (Yes/No)\nWe highly recommend using \n- water-activated eco-friendly tapes\n- Paper-based packaging\n- Use plastic only when absolutely necessary": NaN,
+        "\n Certifications": NaN,
+        "Image link\n> keep General access open to anyone with the link for our team to work with your images)\n> keep all the images related to this product in one folder": "https://drive.google.com/drive/u/0/folders/1G3ggd8mXiXb-jBeM7SfeosF0Wb4ES2kK"
+    }
+    
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "seller_fk": 6,
+        "name": "Hemp Backpack Large - 18 litres",
+        "description": "This large Hemp Backpack is handloomed by women artisans in Nepal. The YKK metal zippers have an added hand-braided hemp puller. \n\nWith 3 spacious pockets and the ability to hold a 15.5\u201d screen, you will look fashionable while also showing your support for our environment. \n\nWe recommend hand wash with neutral PH soap and cold water. Air dry in the shade.",
+        "content": "This large Hemp Backpack is handloomed by women artisans in Nepal. The YKK metal zippers have an added hand-braided hemp puller. \n\nWith 3 spacious pockets and the ability to hold a 15.5\u201d screen, you will look fashionable while also showing your support for our environment. \n\nWe recommend hand wash with neutral PH soap and cold water. Air dry in the shade.",
+        "product_type": 0,
+        "net_weight": 0,
+        "volumetric_weight": 0,
+        "length": 12.0,
+        "breadth": 10.0,
+        "height": 0.75,
+        "sku": "SELLER_PROD_IDENTIFIER",
+        "upc": "",
+        "ean": "",
+        "mpn": "",
+        "packaging_type": 0,
+        "brand_id": 2,
+        "manufacturer_id": 3,
+        "group_fk": 1,
+        "category_fk": 109,
+        "product_details": [
+            {
+                "productFk": 0,
+                "attribute": "Key Features",
+                "value": "Outer Fabric :  80% Hemp, 20% Cotton\n\u2022 Outer fabric: Hemp-cotton\n\u2022 Inner Fabric: 100% Organic Cotton\n\u2022 Dimension: 11.5*7*16\n\u2022 Fits upto 15.5\" laptop\n\u2022 Gender: Unisex\n\u2022 Capacity: 18 Litres"
+            },
+            {
+                "productFk": 0,
+                "attribute": "How to Use",
+                "value": "We recommend hand wash with neutral PH soap and cold water. Air dry in the shade."
+            }
+        ]
+    }
+]

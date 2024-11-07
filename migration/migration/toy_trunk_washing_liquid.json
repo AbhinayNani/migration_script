@@ -1,0 +1,66 @@
+[
+  {
+    "seller_fk": 6,
+    "name": "Natural Laundry Liquid - Lavender - 350 ml",
+    "description": "\u2022 Can be used in top-loading & front-loading machines or for hand wash.\n\u2022 Removes dirt, germs & stains, cares for your washing machine & your clothes.\n\u2022 No Dyes, No Bleach, No synthetic dyes or harmful artificial colour added, so just a clear cleaner\n\u2022 The liquid detergent dissolves quickly in washing machines, removes stains effortlessly and leaves no residue on clothes or in machines\n\u2022 Infused with nature's antibacterial agents that help in killing the microbes, germs & bacteria which emerge from food spills, sweat or dirt",
+    "content": "Bio Enzymes, Euclaptus Oil, Coconut based cleaner",
+    "product_type": 0,
+    "net_weight": 400.0,
+    "volumetric_weight": 500.0,
+    "length": 12.0,
+    "breadth": 10.0,
+    "height": 0.75,
+    "sku": "SELLER_PROD_IDENTIFIER",
+    "upc": "string",
+    "ean": "string",
+    "mpn": "string",
+    "packaging_type": 0,
+    "brand_id": 2,
+    "manufacturer_id": 3,
+    "group_fk": 1,
+    "group_description": {},
+    "category_fk": 19,
+    "product_details": [
+      {
+        "productFk": 0,
+        "attribute": "Key Features",
+        "value": "Chemical free, Non Toxic, Floor cleaning, Homecare"
+      },
+      {
+        "productFk": 0,
+        "attribute": "How to Use",
+        "value": "Can be used in top-loading & front-loading machines or for hand wash."
+      },
+      {
+        "productFk": 0,
+        "attribute": "Size",
+        "value": "350 ml"
+      },
+      {
+        "productFk": 0,
+        "attribute": "Fragrance",
+        "value": "Lavender"
+      },
+      {
+        "productFk": 0,
+        "attribute": "Ingredients",
+        "value": "Bio Enzymes, Euclaptus Oil, Coconut based cleaner"
+      },
+      {
+        "productFk": 0,
+        "attribute": "Sustainability Attributes",
+        "value": "Sustainable Packaging, Plastic Free, Zero Waste / Low Waste / Single Use Alternative"
+      },
+      {
+        "productFk": 0,
+        "attribute": "Return Policy",
+        "value": "Replaceable"
+      },
+      {
+        "productFk": 0,
+        "attribute": "Other Details",
+        "value": "More Details\n\u2022 MRP (inclusive of all taxes): 1800ml - 1239\n\u2022 Manufactured & Packaged by - Aditya Renewtech LLP - Plot no. 5, Devam 3, Industrial Estate, Santej, Gandhinagr, Gujarat - 382721\n\u2022 Country of Origin - India\n\u2022 Expiry Date - 2 years from the date of manufacture\n\nCaution:\n\u2022 For external use only\n\u2022 Store in a cool & dry place\n\u2022 Colour of product may change due to use of natural ingredients and essential oils\n\u2022 Product images are for representational purposes only, actual may vary"
+      }
+    ]
+  }
+]
