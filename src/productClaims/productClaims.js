@@ -139,7 +139,7 @@ async function createProductClaims() {
   for (const productClaim of productClaims) {
     const res = await axios.post(api, productClaim, {
       headers: {
-        Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zaWQiOiJiMjAyYzRiNy00ZDM3LTRkYTctODFjNy0zNTQ0YmRjMmMxOTciLCJUb2tlbklkIjoiMSIsInRva2VuX3R5cGUiOiJwZXJzb24iLCJCdXNpbmVzc0lkIjoiMSIsIklzQWRtaW4iOiIxIiwiRXhwaXJ5IjoiMTczNDcwNTE5NCIsIm5iZiI6MTczNDcwMTU5NCwiZXhwIjoxNzM0NzA1MTk0LCJpc3MiOiJodHRwOi8vZWNveWFhbi5jb20ifQ.03l9msSgBsmYgKE4J5v3kGA6D_BxgtYae5dhSyH-v0E`, // Include the token in the header
+        Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zaWQiOiI5Y2JiNjJlNy1kN2VlLTQwZDQtYmNkYy1hMjJjOTE0MGUyODciLCJUb2tlbklkIjoiMTc1IiwidG9rZW5fdHlwZSI6InBlcnNvbiIsIkJ1c2luZXNzSWQiOiIxIiwiSXNBZG1pbiI6IjEiLCJFeHBpcnkiOiIxNzM0NzA5MTc0IiwibmJmIjoxNzM0NzA1NTc0LCJleHAiOjE3MzQ3MDkxNzQsImlzcyI6Imh0dHA6Ly9lY295YWFuLmNvbSJ9.qKrcSAsvcwOM8sRM28RIfK9TOYDfcTaeSsmV8cn9Xi4`, // Include the token in the header
       },
       httpsAgent: new https.Agent({
         rejectUnauthorized: false,
